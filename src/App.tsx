@@ -108,7 +108,7 @@ function App() {
             Water Monitoring Dashboard
           </h1>
           <p className="text-lg text-gray-600">
-            Real-time enviro monitoring and analysis
+            Real-time monitoring and analysis
           </p>
         </div>
 
