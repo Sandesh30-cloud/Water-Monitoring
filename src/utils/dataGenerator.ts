@@ -102,17 +102,17 @@ export class MultiDeviceDataGenerator {
   private deviceConfigs = {
     'device-001': {
       name: 'Sensor Station Alpha',
-      location: 'North Monitoring Point',
+      location: 'North Point',
       baseValues: { pH: 7.1, turbidity: 1.8, salinity: 33.2, dissolvedOxygen: 8.8, temperature: 23.5 }
     },
     'device-002': {
       name: 'Sensor Station Beta',
-      location: 'Central Monitoring Point',
+      location: 'Central Point',
       baseValues: { pH: 7.4, turbidity: 3.2, salinity: 32.1, dissolvedOxygen: 7.9, temperature: 25.1 }
     },
     'device-003': {
       name: 'Sensor Station Gamma',
-      location: 'South Monitoring Point',
+      location: 'South Point',
       baseValues: { pH: 6.9, turbidity: 2.1, salinity: 34.0, dissolvedOxygen: 8.2, temperature: 24.8 }
     }
   };
